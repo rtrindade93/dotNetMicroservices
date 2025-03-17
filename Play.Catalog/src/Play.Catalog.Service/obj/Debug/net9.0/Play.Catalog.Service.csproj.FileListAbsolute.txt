@@ -31,3 +31,4 @@
 /home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/obj/Debug/net9.0/Play.Catalog.Service.pdb
 /home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/obj/Debug/net9.0/Play.Catalog.Service.genruntimeconfig.cache
 /home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/obj/Debug/net9.0/ref/Play.Catalog.Service.dll
+/home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/obj/Debug/net9.0/Play.Catalog.Service.sourcelink.json
