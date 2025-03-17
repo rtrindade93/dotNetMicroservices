@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CTNZY5xVKus=",
+  "success": true,
+  "projectFilePath": "/home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/Play.Catalog.Service.csproj",
+  "expectedPackageFiles": [
+    "/home/ricardo/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/home/ricardo/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
