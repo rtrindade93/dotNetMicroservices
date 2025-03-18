@@ -32,3 +32,9 @@
 /home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/obj/Debug/net9.0/Play.Catalog.Service.genruntimeconfig.cache
 /home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/obj/Debug/net9.0/ref/Play.Catalog.Service.dll
 /home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/obj/Debug/net9.0/Play.Catalog.Service.sourcelink.json
+/home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net9.0/DnsClient.dll
+/home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net9.0/MongoDB.Bson.dll
+/home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net9.0/MongoDB.Driver.dll
+/home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net9.0/SharpCompress.dll
+/home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net9.0/Snappier.dll
+/home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net9.0/ZstdSharp.dll
