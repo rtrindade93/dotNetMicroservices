@@ -14,7 +14,6 @@ namespace Play.Catalog.Service
         {
             return new Item()
             {
-                Id = Guid.NewGuid(),
                 Name = createItemDto.Name,
                 Description = createItemDto.Description,
                 Price = createItemDto.Price,

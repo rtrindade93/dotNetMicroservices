@@ -1,0 +1,4 @@
+.vscode
+.mongodbdata
+**/obj
+**/bin

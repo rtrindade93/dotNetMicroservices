@@ -38,3 +38,4 @@
 /home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net9.0/SharpCompress.dll
 /home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net9.0/Snappier.dll
 /home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net9.0/ZstdSharp.dll
+/home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net9.0/Scalar.AspNetCore.dll

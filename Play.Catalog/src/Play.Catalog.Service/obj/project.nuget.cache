@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OPPm04hzJ1U=",
+  "dgSpecHash": "qNTk1umKho8=",
   "success": true,
   "projectFilePath": "/home/ricardo/dev/dotnet/dotNetMicroservices/Play.Catalog/src/Play.Catalog.Service/Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "/home/ricardo/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
     "/home/ricardo/.nuget/packages/mongodb.bson/3.2.1/mongodb.bson.3.2.1.nupkg.sha512",
     "/home/ricardo/.nuget/packages/mongodb.driver/3.2.1/mongodb.driver.3.2.1.nupkg.sha512",
+    "/home/ricardo/.nuget/packages/scalar.aspnetcore/2.0.36/scalar.aspnetcore.2.0.36.nupkg.sha512",
     "/home/ricardo/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
     "/home/ricardo/.nuget/packages/snappier/1.0.0/snappier.1.0.0.nupkg.sha512",
     "/home/ricardo/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
